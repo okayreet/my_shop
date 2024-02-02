@@ -2,9 +2,9 @@ package com.okayreet.customer;
 
 import lombok.Data;
 
-import jakarta.persistence.*;
-
 import java.time.LocalDate;
+
+import javax.persistence.*;
 
 @Entity
 @Data
